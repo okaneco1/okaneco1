@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a molecular ecology research assistant at Michigan State University.
+My name is Conor, and I'm a molecular ecology research assistant at Michigan State University.
 
 I use R, bash, and Python for bioinformatic workflows, statistical analyses, and data processing.
 
