@@ -9,7 +9,7 @@ I use R, bash, and Python for bioinformatic workflows, statistical analyses, and
 - Developing **OptiMarker**, a python-based program for optimal metabarcoding marker selection
 
 ### 🌱 I’m learning ...
-- Machine learning workflows with scikit-learn
+- Machine learning workflows with PyTorch
 
 ### Connect with me:
 Email: okaneco1@msu.edu
