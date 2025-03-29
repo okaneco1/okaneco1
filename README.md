@@ -6,7 +6,7 @@ I use R, bash, and Python for bioinformatic workflows, statistical analyses, and
 
 ### 🔭 I’m working on ...
 - Analyzing DNA metabarcoding data to assess dietary composition in sea lamprey.
-- Developing **OptiMarker**, a python-based program for optimal metabarcoding marker selection
+- Developing **OptiMarker**, a program for optimal metabarcoding marker selection
 
 ### 🌱 I’m learning ...
 - Machine learning workflows with PyTorch
