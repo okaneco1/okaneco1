@@ -2,7 +2,7 @@
 
 My name is Conor, and I'm a molecular ecology research assistant at Michigan State University.
 
-I use R, bash, and Python for bioinformatic workflows, statistical analyses, and data processing.
+I use R, bash, and Python for bioinformatic workflows, statistical analyses, and data visualization.
 
 ### 🔭 I’m working on ...
 - Analyzing DNA metabarcoding data to assess dietary composition in sea lamprey.
