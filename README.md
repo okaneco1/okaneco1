@@ -6,10 +6,11 @@ I use R, bash, and Python for data visualization, statistical analyses, and bioi
 
 ### I’m working on ...
 - Analyzing DNA metabarcoding data to assess dietary composition in sea lamprey.
-- Developing **OptiMarker**, a program for optimal metabarcoding marker selection
+- Preparing final analyses for journal submission of my third thesis chapter
 
 ### I’m learning ...
 - Machine learning workflows with PyTorch
+- D3.js for data visualizations
 
 ### Connect with me:
 Email: okaneco1@msu.edu
